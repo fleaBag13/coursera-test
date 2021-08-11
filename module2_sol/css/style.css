@@ -3,24 +3,26 @@
 }
 
 body{
-	background-color: #9370DB;
+	background-color:  #FFFBFB;
 }
 
 h1{
   text-align: center;
-  color: #FFF8DC;
+  color: black;
+  font-weight: 550;
   margin-top: 30px;
+  font-family: Comic Sans, Comic Sans MS, cursive;
 }
 
 p {
-  background-color: #D8BFD8;
-  border: 1px solid lavender;
-  color: #483D8B;
-  height: 170px;
+  background-color: #A9A9A9;
+  border: 2px solid black;
+  color: black;
+  height: 190px;
   margin-right: 10px;
   padding: 40px 10px 5px 10px;
   overflow: hidden;
-  font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+  font-family: Comic Sans, Comic Sans MS, cursive; 
 }
 
 
@@ -30,8 +32,8 @@ p {
 }
 
 #p1 {
-  background-color: #D59898;
-  color: white;
+  background-color: #BC8F8F;
+  color: black;
   position: absolute;
   top: 0;
   right: 0;
@@ -41,11 +43,11 @@ p {
   padding: 10px;
   padding-bottom: 20px;
   text-align: center;
-  font-family: Lucida Bright,Georgia,serif; 
+  font-family: Comic Sans, Comic Sans MS, cursive;
 
 }
 #p2 {
-  background-color: #6495ED;
+  background-color: #B22222;
   color: white;
   position: absolute;
   top: 0;
@@ -55,12 +57,12 @@ p {
   width: 120px;
   padding: 10px;
   text-align: center;
-  font-family: Lucida Bright,Georgia,serif;
+  font-family: Comic Sans, Comic Sans MS, cursive;
 
 }
 #p3 {
-  background-color: #DB7093;
-  color: white;
+  background-color: darkkhaki;
+  color: black;
   position: absolute;
   top: 0;
   right: 0;
@@ -69,7 +71,7 @@ p {
   width: 120px;
   padding: 10px;
   text-align: center;
-  font-family: Lucida Bright,Georgia,serif;
+  font-family: Comic Sans, Comic Sans MS, cursive;
 
 }
 
